@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoashanMosses
 - 👀 I’m interested in Data Engineering and Web Developement
-- 🌱 I’m currently learning Pythom am SQL
+- 🌱 I’m currently learning Pythom and SQL
 
 
 <!---
